@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### DataBase###
+/resources/application.properties
+/resources/application-test.properties
+
