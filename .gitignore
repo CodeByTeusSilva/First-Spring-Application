@@ -33,6 +33,4 @@ build/
 .vscode/
 
 ### DataBase###
-/resources/application.properties
-/resources/application-test.properties
-
+src/main/resources/*.properties
