@@ -1,8 +1,6 @@
 package com.meuapp.springproject.resources;
 
-import com.meuapp.springproject.entities.Category;
 import com.meuapp.springproject.entities.Product;
-import com.meuapp.springproject.services.CategoryService;
 import com.meuapp.springproject.services.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
