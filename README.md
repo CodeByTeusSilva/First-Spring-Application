@@ -1,4 +1,4 @@
-## Contexto
+## Projeto API
 O projeto consiste em uma API desenvolvida em Java utilizando o framework Spring Boot e a tecnologia JPA/Hibernate para persistência de dados. Essa API visa fornecer um sistema de gerenciamento de pedidos e produtos, onde os usuários podem criar pedidos, adicionar produtos aos pedidos, realizar pagamentos e administrar categorias de produtos.
 
 ## Objetivos
